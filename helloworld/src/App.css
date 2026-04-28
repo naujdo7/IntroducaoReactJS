@@ -57,6 +57,7 @@
 }
 
 #center {
+  background-color: gainsboro;
   display: flex;
   flex-direction: column;
   gap: 25px;
@@ -116,7 +117,7 @@
   }
 
   a {
-    color: var(--text-h);
+    color: #bb1dff;;
     font-size: 16px;
     border-radius: 6px;
     background: var(--social-bg);
